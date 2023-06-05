@@ -21,4 +21,5 @@
 
 <p align="left">
   <a href="https://twitter.com/robbins99980080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/robbins99980080" height="30" width="40" /></a>
+  <a href="https://discordapp.com/users/1114807481525338202" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/1114807481525338202" height="30" width="40" /> </a>
   </p>
