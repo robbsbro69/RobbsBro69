@@ -1,7 +1,7 @@
 ### Hi there 👋 , I am Robbs Bro
 
 <!--
-**robbsbro69/RobbsBro69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**A passionate coder and Open Source Enthusiast**
 
 Here are some ideas to get you started:
 
