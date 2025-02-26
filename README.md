@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C,Python**
 
-- 💬 Ask me about **Any Linux Related Stuffs, Blockchain Development,Web Development or anything else.**
+- 💬 Ask me about **Any Linux Related Stuffs, Blockchain Development or anything else.**
 
 - :smile: I like customizing window managers and exploring new things
 
